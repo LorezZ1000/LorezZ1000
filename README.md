@@ -1,12 +1,12 @@
 <h1 align="left">Olá, meu nome é LorezZ 👋</h1>
 
 ###
-      <div class="overlay">
+
 <p align="left">Sou desenvolvedora web e estudante de Python para fins de hacking, usuario de linux e uma apreciadora de gostosas.</p>
 
 ###
 
-<img src="https://cdn.discordapp.com/attachments/1180437457267851326/1186599103120019557/11264001_862eb.gif" style="width:400; height:600;" alt="Gif animado">
+<img src="https://cdn.discordapp.com/attachments/1180437457267851326/1186599103120019557/11264001_862eb.gif" style="width:300; height:500;" alt="Gif animado">
 
 
 ###
