@@ -1,7 +1,6 @@
 <h1 align="left">Olá, meu nome é LorezZ 👋</h1>
 
 ###
-<iframe src="https://cdn.pixabay.com/audio/2022/11/28/audio_4bf44cb14d.mp3" allow="autoplay" style="display:none"></iframe>
       <div class="overlay">
 <p align="left">Sou desenvolvedora web e estudante de Python para fins de hacking, usuario de linux e uma apreciadora de gostosas.</p>
 
