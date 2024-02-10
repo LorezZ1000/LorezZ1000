@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedora web e estudante de Python para fins de hacking, usuario de linux e uma apreciadora de gostosas.</p>
+<p align="left">Sou desenvolvedor web e um amante da cultura pop japonesa fascinado por tecnologia.</p>
 
 ###
 
