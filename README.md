@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://cdn.discordapp.com/attachments/1180437457267851326/1186599103120019557/11264001_862eb.gif" style="user-select:none; width:300; height:500;" alt="Gif animado">
+<img src="https://i.postimg.cc/MGvmK8kD/04b6fad03716e9fbd76aaa81eb7a527a.gif" style="user-select:none; width:300; height:500;" alt="Gif animado">
 
 
 ###
