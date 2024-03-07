@@ -17,11 +17,11 @@
   </a>
   <img width="12" />
   <a href="https://media.discordapp.net/attachments/1181582978594373643/1182154962826960907/Sem_titulo.jpg?ex=6583aa9a&is=6571359a&hm=444d7e2ccf7d83af0e2c6278f012680969d4d0b74b2253d2fc61f0d263adac94&=&format=webp" style="user-select:none;">
-    <img src="https://media.discordapp.net/attachments/1181582978594373643/1182154962826960907/Sem_titulo.jpg?ex=6583aa9a&is=6571359a&hm=444d7e2ccf7d83af0e2c6278f012680969d4d0b74b2253d2fc61f0d263adac94&=&format=webp" height="40" alt="Python logo" style="user-select:none;" />
+    <img src="https://i.postimg.cc/1RTNZLcx/Python-logo-notext-svg.png" height="40" alt="Python logo" style="user-select:none;" />
   </a>
   <img width="12" />
   <a href="https://media.discordapp.net/attachments/1181582978594373643/1182155767730679900/Sem_titulo.png?ex=6583ab5a&is=6571365a&hm=c9f0c55e244f16555a339a8c90e5db6843c95dc7b52c2491d13420561fcd3fbb&=&format=webp&quality=lossless">
-    <img src="https://media.discordapp.net/attachments/1181582978594373643/1182155767730679900/Sem_titulo.png?ex=6583ab5a&is=6571365a&hm=c9f0c55e244f16555a339a8c90e5db6843c95dc7b52c2491d13420561fcd3fbb&=&format=webp&quality=lossless" height="40" alt="JavaScript logo" style="user-select:none;" />
+    <img src="https://i.postimg.cc/L8VtRx8z/js.png" height="40" alt="JavaScript logo" style="user-select:none;" />
   </a>
   <img width="12" />
  
