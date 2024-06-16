@@ -7,4 +7,3 @@
 ###
 
 <img src="https://i.postimg.cc/8zbVbm1B/image.png" style="user-select:none; width:300; height:500;" alt="Gif animado">
-###
